@@ -1,37 +1,50 @@
-# 🛠️ Práctica de Automatización de Scripts
+# 🧠 Logic and Automation Practice
 
-Este repositorio es una colección personal de ejercicios prácticos en **JavaScript** centrados en la automatización de tareas repetitivas, una habilidad clave en muchos entornos laborales técnicos.
+Este repositorio es una colección personal de **ejercicios prácticos en JavaScript**, enfocados en:
 
-Como parte de mi proceso de aprendizaje como desarrolladora web junior, estoy desarrollando este proyecto para afianzar conceptos relacionados con scripting, automatización y gestión de datos.
+- 🧩 Lógica de programación
+- 🔁 Automatización de tareas repetitivas
+- 🧱 Estructuras de datos
+- 🛠️ Simulación de casos reales
 
----
+Como parte de mi proceso de formación como **desarrolladora web junior**, utilizo este espacio para fortalecer habilidades clave aplicables a proyectos reales, y para consolidar conceptos fundamentales como la lógica de scripting, la automatización de tareas y la manipulación de datos.
 
 ## 🚀 ¿Qué es esto?
 
-Aquí encontrarás scripts sencillos y didácticos que simulan situaciones reales en las que automatizar tareas puede ahorrar tiempo, reducir errores y mejorar procesos internos. Algunos ejemplos:
+Aquí encontrarás pequeños programas ("scripts") y desafíos que me ayudan a practicar:
+
+- Resolver problemas con lógica
+- Automatizar tareas comunes con código
+- Simular procesos como en un entorno laboral (gestión de datos, procesamiento de listas, etc.)
+
+Ejemplos de lo que incluye:
 
 - Asignar técnicos automáticamente según la ciudad del cliente
 - Filtrar registros en una base de datos simulada (como un CRM)
 - Marcar tareas como completadas
-- Generar mensajes personalizados
-- Y más ejercicios que iré añadiendo...
+- Agrupar estudiantes por profesor
+- Crear histogramas de repeticiones
+- Buscar letras que se repiten en una secuencia
+- Recorrer estructuras de carpetas de forma recursiva
+- ¡Y más ejercicios que iré añadiendo!
 
 ---
 
 ## 🧰 Tecnologías y conceptos trabajados
 
 - JavaScript (Vanilla)
-- Arrays y objetos
-- Funciones
-- Métodos de arrays: `map`, `filter`, `forEach`
+- Arrays, objetos y estructuras anidadas
+- Funciones y recursividad
 - Lógica condicional
+- Métodos de arrays: `map`, `filter`, `forEach`, `reduce`
 - Transformación de datos
-- Automatización de flujos simples
+- Automatización básica de flujos
 
 ---
 
 ## 💡 ¿Por qué este proyecto?
 
-Me interesa cómo la programación puede ayudar a optimizar procesos del día a día en equipos técnicos, atención al cliente, soporte o gestión de proyectos.
+Me interesa cómo la programación puede **resolver problemas reales** y optimizar procesos.  
+Este repositorio es mi forma de practicar, documentar y compartir ese aprendizaje.
 
 ---
