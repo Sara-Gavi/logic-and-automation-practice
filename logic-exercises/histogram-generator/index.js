@@ -39,8 +39,8 @@ for (const number of numbers) {
   }
 }
 
-console.log(`1: ${countNumber1}`);
-console.log(`2: ${countNumber2}`);
-console.log(`3: ${countNumber3}`);
-console.log(`4: ${countNumber4}`);
-console.log(`5: ${countNumber5}`);
+console.log(`1: ${"*".repeat(countNumber1)}`);
+console.log(`2: ${"*".repeat(countNumber2)}`);
+console.log(`3: ${"*".repeat(countNumber3)}`);
+console.log(`4: ${"*".repeat(countNumber4)}`);
+console.log(`5: ${"*".repeat(countNumber5)}`);
