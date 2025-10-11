@@ -1,0 +1,13 @@
+/* index.css — hoja de estilo base para el proyecto Vite + React */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+}
+
+h1 {
+  font-size: 1.8rem;
+  color: #333;
+}
