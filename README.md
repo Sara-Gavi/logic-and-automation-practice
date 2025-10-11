@@ -1,4 +1,4 @@
-# 🧠 Logic and Automation Practice
+# 🧠 Logic, Automation Practice and IA-Driven Development
 
 Este repositorio es una colección personal de **ejercicios prácticos en JavaScript**, enfocados en:
 
@@ -16,6 +16,7 @@ Aquí encontrarás pequeños programas ("scripts") y desafíos que me ayudan a p
 - Resolver problemas con lógica
 - Automatizar tareas comunes con código
 - Simular procesos como en un entorno laboral (gestión de datos, procesamiento de listas, etc.)
+- Desarrollo asistido por inteligencia artificial (IA)
 
 Ejemplos de lo que incluye:
 
@@ -39,8 +40,12 @@ Ejemplos de lo que incluye:
 - Métodos de arrays: `map`, `filter`, `forEach`, `reduce`
 - Transformación de datos
 - Automatización básica de flujos
+- Integración de stack completo React + Node.js (Express) usando IA
 
----
+### 🧠 Desarrollo +IA (IA-Driven Development)
+
+Ejercicio práctico para demostrar mis conocimientos en **desarrollo asistido por inteligencia artificial (IA)**.  
+En esta práctica apliqué **TDD, documentación automática y revisión de código** usando **GitHub Copilot Free**, integrando un stack completo **React + Node.js (Express)**.
 
 ## 💡 ¿Por qué este proyecto?
 
