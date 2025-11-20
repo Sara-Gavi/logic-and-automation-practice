@@ -1,0 +1,12 @@
+{
+  "name": "e-commerce-test",
+  "version": "1.0.0",
+  "description": "Este ejercicio simula parte del backend de un e-commerce usando JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
