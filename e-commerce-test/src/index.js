@@ -1,7 +1,7 @@
-// Importamos la API simulada:
+// Importar la API simulada:
 const { api, WAREHOUSES } = require("./mock-apis");
 
-// Aquí empieza la función a completar paso a paso
+// función a completar paso a paso
 async function getProductAvailability(productId, userId) {
   // TODO: Implementar la lógica aquí
   /* Debe retornar un objeto con la siguiente estructura:
