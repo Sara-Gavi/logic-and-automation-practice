@@ -3,11 +3,12 @@
 Este repositorio es una colección personal de **ejercicios prácticos en JavaScript**, enfocados en:
 
 - 🧩 Lógica de programación
+- 🧠 desarrollo asistido por inteligencia artificial (IA)
 - 🔁 Automatización de tareas repetitivas
 - 🧱 Estructuras de datos
 - 🛠️ Simulación de casos reales
 
-Como parte de mi proceso de formación como **desarrolladora web junior**, utilizo este espacio para fortalecer habilidades clave aplicables a proyectos reales, y para consolidar conceptos fundamentales como la lógica de scripting, la automatización de tareas y la manipulación de datos.
+Como parte de mi proceso de formación como **desarrolladora web**, utilizo este espacio para fortalecer habilidades clave aplicables a proyectos reales, y para consolidar conceptos fundamentales como la lógica de scripting, la automatización de tareas y la manipulación de datos.
 
 ## 🚀 ¿Qué es esto?
 
