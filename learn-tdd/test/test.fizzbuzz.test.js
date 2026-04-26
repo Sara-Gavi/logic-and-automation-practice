@@ -7,12 +7,23 @@ import { describe, it, expect } from "vitest";
 - Muestra el número si no es divisible por ninguno
 */
 
-const fizzbuzz = () => {
+const fizzbuzz = (number) => {
+  if (typeof number !== "number") {
+    throw new Error("Parameter must be a number");
+  }
   // Implementar la función aquí
 };
 
 describe("fizzbuzz", () => {
   it("should be a function", () => {
     expect(typeof fizzbuzz).toBe("function");
+  });
+
+  it("should throw if not number is provided as parameter", () => {
+    expect(() => fizzbuzz()).toThrow();
+  });
+
+  it("should throw a specific error message if not number is provided as parameter", () => {
+    expect(() => fizzbuzz()).toThrow("number");
   });
 });
