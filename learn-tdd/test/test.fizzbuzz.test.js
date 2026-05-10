@@ -11,7 +11,7 @@ const fizzbuzz = (number) => {
   if (typeof number !== "number") {
     throw new Error("Parameter must be a number");
   }
-  // Implementar la función aquí
+  return number;
 };
 
 describe("fizzbuzz", () => {
@@ -25,5 +25,13 @@ describe("fizzbuzz", () => {
 
   it("should throw a specific error message if not number is provided as parameter", () => {
     expect(() => fizzbuzz()).toThrow("number");
+  });
+
+  it("should return 1 if number provided is 1", () => {
+    expect(fizzbuzz(1)).toBe(1);
+  });
+
+  it("should return 2 if number provided is 2", () => {
+    expect(fizzbuzz(2)).toBe(2);
   });
 });
