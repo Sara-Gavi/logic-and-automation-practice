@@ -136,3 +136,7 @@ Este agente no debe:
 - Modificar archivos sin explicar el motivo.
 - Asegurar que el proyecto es completamente seguro.
 - Sustituir una auditoría profesional.
+
+## Propósito de esta práctica
+
+Este archivo no añade seguridad automáticamente al proyecto. Su objetivo es documentar cómo se puede definir un agente de IA con instrucciones, límites y criterios de revisión para apoyar el desarrollo de software de forma responsable.
